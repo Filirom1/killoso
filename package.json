@@ -3,7 +3,6 @@
   "name": "diieee",
   "version": "0.1.3-1",
   "dependencies": {
-    "lorem-ipsum": "~1.0.1",
     "uuid": "~1.4.1"
   }
 }
